@@ -1,3 +1,2 @@
 # docker
-College Demo
-My College project
+My docker project
